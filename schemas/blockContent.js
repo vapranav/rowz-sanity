@@ -67,7 +67,7 @@ export default {
       type: "code",
     },
     {
-      type: "highcharts",
+      type: "data",
     },
   ],
 };
